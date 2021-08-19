@@ -115,28 +115,18 @@ Platform for faster, more efficient, reliable and secure payments between banks 
 
 ## Results
 ---
+With early research and development with the Hyperledger consortium, IBM corporation remains as one of the top key players in the BaaS space, along with Accenture, Wipro and Infosys. By being at the forefront of capabilities and strategy, IBM is positioned as a leader in this field to help deploy blockchain solutions for B2B needs.
+
+In relation to competitors in this domain, both IBM and Accenture use the same underlying blockchain technology, Hyperledger, which allows them to have similar capabilities for their customer needs.[11]
+
+
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.infosys.com%2Fcontent%2Fdam%2Finfosys-web%2Fen%2Fglobal-resource%2F18%2Fleader-blockchain-services2020-vendor-assessment.jpg&f=1&nofb=1)
 
 ## Recommendation
 ---
+The main differences between what Accenture can offer and what IBM does is blockchain solutions on Ethereum or Corda. There are many projects that are built on Ethereum smart contracts which could be used which be utilized without having to rewrite smart contracts for the Hyperledger blockchain which means solutions could be deployed quicker. 
 
-
-<!--- *
-* What specific financial problem is the company or project trying to solve?
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
---->
-
-<!-- ## Landscape: -->
-<!--- *
-* What domain of the financial industry is the company in?
-
-* What have been the major trends and innovations of this domain over the last 5-10 years?
-
-* What are the other major companies in this domain?
---->
+The main differences between the Hyperledger and Ethereum blockchains is that Ethereum purpose is more catered towards B2C businesses and generalized application where peer participation is public. Ethereum also has a built in cryptocurrency Ether, which some solutions may benefit from. [12]
 
 <!-- ## Results -->
 <!--- *
@@ -170,3 +160,6 @@ What solution does this company offer that their competitors do not or cannot of
 8. [IBM Blockchain Solutions](https://www.ibm.com/blockchain/solutions)
 9. [Difference Between IBM and Accenture](http://www.differencebetween.net/technology/internet/difference-between-ibm-and-accenture/)
 10. [Accenture Blockchain Index](https://www.accenture.com/au-en/services/blockchain-index)
+11. [Global Blockchain as a Service Market Comprehensive Insights](https://manometcurrent.com/global-blockchain-as-a-service-baas-market-comprehensive-insights-ibm-corporation-sap-deloitte-accenture-cognizant-infosys-pwc-ntt-data-capgemini-wipro/)
+12. [Hyperledger Vs Ethereum](https://www.edureka.co/blog/hyperledger-vs-ethereum/)
+
